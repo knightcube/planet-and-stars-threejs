@@ -7,7 +7,9 @@
 html,
 body
 {
+    font-family: 'Poppins';
     overflow: hidden;
+    color: white;
 }
 
 .webgl
@@ -18,5 +20,37 @@ body
     outline: none;
 }
 
+canvas{
+    z-index: -1;
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.social-media{
+    margin-top: 30px;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 8px;
+}
+a:hover{
+    text-decoration: none;
+}
+
+p{
+    margin-top: 20px;
+    font-size: larger;
+}
 
 /*# sourceMappingURL=main.css.map*/

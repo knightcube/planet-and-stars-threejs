@@ -1,5 +1,11 @@
+# Live Demo
+👉 (https://knightcube.github.io/planet-and-stars-threejs/)
+
 # Three.js Journey
 👉 Applying some of the techniques from this awesome THREE.js course by Bruno Simon - (https://threejs-journey.xyz)
+
+
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
