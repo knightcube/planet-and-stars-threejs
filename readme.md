@@ -1,3 +1,5 @@
+![Planet and Stars Gif](https://github.com/knightcube/planet-and-stars-threejs/blob/master/gifs/planet-and-stars.gif)
+
 # Live Demo
 👉 (https://knightcube.github.io/planet-and-stars-threejs/)
 
